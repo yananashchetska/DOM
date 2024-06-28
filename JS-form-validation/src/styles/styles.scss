@@ -1,0 +1,12 @@
+ @import '../../src/styles/form';
+ @import '../../src/styles/normalize';
+
+body {
+    font-family:  Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
